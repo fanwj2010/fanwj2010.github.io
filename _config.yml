@@ -361,4 +361,4 @@ compress_html:
     envs: development
 
 # Site logo
-logo: "/images/W-Logo_Purple_Hex.png"
+logo: "/images/uw-logo.png"
