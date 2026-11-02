@@ -17,17 +17,85 @@ Welcome to my personal profile page. I am currently a tenure-track Assistant Pro
 
 
 ## News
-<div style="height: 300px; overflow-y: auto; border: 1px solid #ddd; padding: 10px 15px;">
-<ul>
-  <li><strong>2026-10-30:</strong> I have been invited to serve as a TPC member for IEEE ICC.</li>
-  <li><strong>2026-05-07:</strong> I have been invited to serve as a TPC member for IEEE CCNC.</li>
-  <li><strong>2026-04-28:</strong> I have been invited to serve as a TPC member for ISD.</li>
-  <li><strong>2026-04-20:</strong> Our paper submitted to the 56th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2026) has been accepted.</li>
-  <li><strong>2026-04-12:</strong>Our paper submitted to the main conference symposium of the IEEE Computers, Software, and Applications Conference (COMPSAC 2026) has been accepted as a full paper (up to 10 pages) for inclusion in the proceedings. Only 28.5% of submitted papers were accepted as full papers.</li>
-  <li><strong>2026-04-06:</strong>Our paper has been accepted with no further changes as a Regular Paper in an upcoming issue of the IEEE Transactions on Network Science and Engineering.</li>
-  <li><strong>2026-02-22:</strong> Our paper prepared by a group of MCL students has been accepted for presentation and publication at IEEE SVCC 2026.</li>
-</ul>
+<style>
+.news-ticker {
+  height: 240px;
+  overflow: hidden;
+  position: relative;
+  border: 1px solid #ddd;
+  padding: 12px 15px;
+}
+
+.news-ticker-track {
+  animation: news-scroll 45s linear infinite;
+}
+
+.news-ticker:hover .news-ticker-track {
+  animation-play-state: paused;
+}
+
+.news-ticker ul {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-left: 20px;
+}
+
+.news-ticker li {
+  margin-bottom: 14px;
+  line-height: 1.6;
+}
+
+@keyframes news-scroll {
+  from { transform: translateY(0); }
+  to { transform: translateY(-50%); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .news-ticker-track {
+    animation: none;
+  }
+}
+</style>
+
+<div class="news-ticker">
+  <div class="news-ticker-track">
+
+    <ul>
+      <li><strong>2026-10-30:</strong> I have been invited to serve as a TPC member for IEEE ICC.</li>
+
+      <li><strong>2026-05-07:</strong> I have been invited to serve as a TPC member for IEEE CCNC.</li>
+
+      <li><strong>2026-04-28:</strong> I have been invited to serve as a TPC member for ISD.</li>
+
+      <li><strong>2026-04-20:</strong> Our paper submitted to the 56th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2026) has been accepted.</li>
+
+      <li><strong>2026-04-12:</strong> Our paper submitted to the main conference symposium of the IEEE Computers, Software, and Applications Conference (COMPSAC 2026) has been accepted as a full paper (up to 10 pages) for inclusion in the proceedings. Only 28.5% of submitted papers were accepted as full papers.</li>
+
+      <li><strong>2026-04-06:</strong> Our paper has been accepted with no further changes as a Regular Paper in an upcoming issue of the IEEE Transactions on Network Science and Engineering.</li>
+
+      <li><strong>2026-02-22:</strong> Our paper prepared by a group of MCL students has been accepted for presentation and publication at IEEE SVCC 2026.</li>
+    </ul>
+
+    <!-- Duplicate list for seamless scrolling -->
+    <ul aria-hidden="true">
+      <li><strong>2026-10-30:</strong> I have been invited to serve as a TPC member for IEEE ICC.</li>
+
+      <li><strong>2026-05-07:</strong> I have been invited to serve as a TPC member for IEEE CCNC.</li>
+
+      <li><strong>2026-04-28:</strong> I have been invited to serve as a TPC member for ISD.</li>
+
+      <li><strong>2026-04-20:</strong> Our paper submitted to the 56th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2026) has been accepted.</li>
+
+      <li><strong>2026-04-12:</strong> Our paper submitted to the main conference symposium of the IEEE Computers, Software, and Applications Conference (COMPSAC 2026) has been accepted as a full paper (up to 10 pages) for inclusion in the proceedings. Only 28.5% of submitted papers were accepted as full papers.</li>
+
+      <li><strong>2026-04-06:</strong> Our paper has been accepted with no further changes as a Regular Paper in an upcoming issue of the IEEE Transactions on Network Science and Engineering.</li>
+
+      <li><strong>2026-02-22:</strong> Our paper prepared by a group of MCL students has been accepted for presentation and publication at IEEE SVCC 2026.</li>
+    </ul>
+
+  </div>
 </div>
+
 
 ---
 ## News
