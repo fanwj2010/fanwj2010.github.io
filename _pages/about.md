@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## About Me
-Welcome to my personal profile page! I am currently a tenure-track Assistant Professor at the University of Washington Tacoma. My research interests include cybersecurity, artificial intelligence, network softwarization, blockchain, and cloud computing. Prior to joining UW Tacoma, I was a postdoctoral associate at the University of Colorado Colorado Springs (US) from 2019 to 2021 and a postdoctoral researcher at the University of Kent, Canterbury (UK), from 2017 to 2019. I received my Ph.D. in Telematics Systems Engineering from the Technical University of Madrid (Spain) in 2017.
+Welcome to my personal webpage! I am currently a tenure-track Assistant Professor at the University of Washington Tacoma. My research interests include cybersecurity, artificial intelligence, network softwarization, blockchain, and cloud computing. Prior to joining UW Tacoma, I was a postdoctoral associate at the University of Colorado Colorado Springs (US) from 2019 to 2021 and a postdoctoral researcher at the University of Kent, Canterbury (UK), from 2017 to 2019. I received my Ph.D. in Telematics Systems Engineering from the Technical University of Madrid (Spain) in 2017.
 
 ### Honors, Certificates, & Awards
 - **Honorary Member**, iCSS, University of Kent, Canterbury, U.K., 2023–present.
