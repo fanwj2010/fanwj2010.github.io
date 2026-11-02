@@ -12,19 +12,19 @@ main:
  #   url: /
     
   - title: "Research"
-    url: /Research/
+    url: /research/
 
   - title: "Teaching"
     url: /teaching/    
 
   - title: "Service"
-    url: /Service/
+    url: /service/
 
   - title: "Publications"
     url: /publications/
 
   - title: "Students"
-    url: /Students/
+    url: /students/
 
  # - title: "Talks"
  #   url: /talks/    
