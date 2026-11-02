@@ -35,10 +35,19 @@ Welcome to my personal webpage! I am currently a tenure-track Assistant Professo
 }
 
 .news-ticker ul {
+  list-style: none;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-left: 0;
+}
+  
+<!--  
+.news-ticker ul {
   margin-top: 0;
   margin-bottom: 0;
   padding-left: 20px;
 }
+-->  
 
 .news-ticker li {
   margin-bottom: 14px;
