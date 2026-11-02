@@ -193,7 +193,7 @@ This research investigates a cloud–edge cooperative defense system that levera
 <div class="research-project">
 
   <div class="research-description">
-    PeerLumen investigates a client-side honeypot telescope for monitoring and analyzing security threats in the Bitcoin peer-to-peer (P2P) network. By observing network connections and peer behaviors, the system aims to collect valuable threat intelligence and characterize malicious activities within the Bitcoin ecosystem. The research explores network-level monitoring across IPv4, IPv6, and Tor onion services, providing insights into emerging threats, suspicious connection patterns, and the security dynamics of decentralized P2P networks.
+    PeerLumen investigates a honeypot telescope for monitoring and analyzing security threats in the Bitcoin P2P network. By observing network connections and peer behaviors, the system aims to collect valuable threat intelligence and characterize malicious activities within the Bitcoin ecosystem. The research explores network-level monitoring across IPv4, IPv6, and Tor onion services, providing insights into emerging threats, suspicious connection patterns, and the security dynamics of decentralized P2P networks.
 
     <p class="related-publication">
       <strong>Related publication:</strong>
