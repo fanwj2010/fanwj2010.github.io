@@ -5,6 +5,10 @@ permalink: /service/
 author_profile: true
 ---
 
+## Editorial Service
+
+- **Associate Editor**, *Frontiers in Cybersecurity*.
+
 ## Technical Program Committee
 
 - IEEE International Conference on Communications: Communication & Information System Security (ICC-CISS)
