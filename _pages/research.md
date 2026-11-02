@@ -9,22 +9,60 @@ author_profile: true
 
 ### HoneyLLMd: A Large Language Model-Powered Adaptive Honeypot System
 
-<figure style="margin: 20px 0; text-align: center;">
-  <img src="/images/HoneyLLMd.png"
-       alt="Architecture and workflow of the LLM-powered adaptive honeypot system"
-       style="width: 100%; max-width: 850px; height: auto; border-radius: 6px;">
-  <figcaption style="font-size: 0.9em; color: #666; margin-top: 8px;">
-    Overview of the LLM-powered adaptive honeypot architecture.
-  </figcaption>
-</figure>
+<style>
+.research-project {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 25px;
+  align-items: center;
+  margin: 20px 0 45px 0;
+}
 
-**Brief Summary:**
+.research-description {
+  text-align: justify;
+  line-height: 1.7;
+}
 
-Honeypots lure attackers by emulating vulnerabilities, yet balancing deep attacker engagement with resource security remains challenging. We propose an adaptive honeypot system powered by a Large Language Model (LLM). Unlike traditional decoys, the proposed system generates authentic, shell-like responses without exposing a real operating system, facilitating convincing request–response interactions that capture valuable attacker behavioral data. To enhance defensive capabilities, we employ a Hierarchical Probabilistic Automaton (HPA) to model attack transitions and dynamically adapt honeypot strategies. Experimental results demonstrate that our LLM-driven approach achieves superior attacker engagement and data collection while maintaining significantly lower security risks than conventional methods.
+.research-figure {
+  margin: 0;
+  text-align: center;
+}
 
-**Key Contributions:**
+.research-figure img {
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+}
 
-- **LLM-Powered Shell Emulation:** Generates realistic, context-aware shell responses without exposing a real operating system.
-- **Adaptive Attack Modeling:** Employs a Hierarchical Probabilistic Automaton (HPA) to model attacker behaviors and transitions.
-- **Dynamic Honeypot Adaptation:** Adjusts deception strategies based on observed attack patterns.
-- **Enhanced Threat Intelligence:** Improves attacker engagement and behavioral data collection while minimizing security risks.
+.research-figure figcaption {
+  font-size: 0.85em;
+  color: #777;
+  margin-top: 8px;
+}
+
+@media screen and (max-width: 768px) {
+  .research-project {
+    grid-template-columns: 1fr;
+  }
+}
+</style>
+
+<div class="research-project">
+
+  <div class="research-description">
+
+    <strong>Brief Summary:</strong>
+
+    Honeypots lure attackers by emulating vulnerabilities, yet balancing deep attacker engagement with resource security remains challenging. We propose an adaptive honeypot system powered by a Large Language Model (LLM). Unlike traditional decoys, the proposed system generates authentic, shell-like responses without exposing a real operating system, facilitating convincing request–response interactions that capture valuable attacker behavioral data. To enhance defensive capabilities, we employ a Hierarchical Probabilistic Automaton (HPA) to model attack transitions and dynamically adapt honeypot strategies. Experimental results demonstrate that our LLM-driven approach achieves superior attacker engagement and data collection while maintaining significantly lower security risks than conventional methods.
+
+  </div>
+
+  <figure class="research-figure">
+    <img src="/images/HoneyLLMd.png"
+         alt="LLM-powered adaptive honeypot architecture">
+    <figcaption>
+      Overview of the LLM-powered adaptive honeypot system.
+    </figcaption>
+  </figure>
+
+</div>
