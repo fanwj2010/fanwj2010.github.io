@@ -10,14 +10,14 @@ author_profile: true
 .research-project {
   display: grid;
   grid-template-columns: 0.9fr 1.1fr;
-  gap: 15px;
+  gap: 10px;
   align-items: center;
   margin: 20px 0 45px 0;
 }
 
 /* Description text */
 .research-description {
-  font-size: 0.75em;
+  font-size: 0.8em;
   line-height: 1.6;
   text-align: left;
 }
@@ -81,7 +81,7 @@ author_profile: true
 
   <div class="research-description">
 
-    LLM-CW investigates the application of Large Language Models (LLMs) to cyber wargaming, focusing on evolving attack-defense interactions and adaptive strategy development. The research explores how LLM-driven agents can simulate attacker and defender behaviors, reason about dynamic cyber scenarios, and adapt their strategies in response to evolving threats and defensive actions. By integrating intelligent decision-making into cyber wargaming, this work aims to advance autonomous adversarial simulation and strategic analysis for cybersecurity.
+    LLM-CW investigates the application of Large Language Models (LLMs) to cyber wargaming, focusing on evolving attack-defense interactions and adaptive strategy development. It explores how LLM-driven agents can simulate attacker and defender behaviors and adapt their strategies in response to evolving threats and defensive actions. By integrating intelligent decision-making into cyber wargaming, this work aims to advance autonomous adversarial simulation and strategic analysis for cybersecurity.
   </div>
 
   <figure class="research-figure">
@@ -100,10 +100,15 @@ author_profile: true
 ### PentestLLM: LLM-Enabled Penetration Testing
 
 <div class="research-project">
-
   <div class="research-description">
-
     PentestLLM explores the application of Large Language Models (LLMs) to penetration testing, aiming to make security assessment more intelligent and automated. By leveraging LLM-based reasoning and tool integration, the framework investigates how AI can assist in understanding testing objectives, identifying potential attack paths, executing penetration-testing workflows, and interpreting security assessment results. This research aims to advance LLM-enabled penetration testing and reduce the complexity of security evaluation.
+
+    <p class="related-publication">
+      <strong>Related publication:</strong>
+       <a href="https://ieeexplore.ieee.org/abstract/document/11645571" target="_blank" rel="noopener">
+         COMPSAC'26
+       </a>
+     </p>
   </div>
 
   <figure class="research-figure">
@@ -125,9 +130,18 @@ author_profile: true
 <div class="research-project">
 
   <div class="research-description">
-    Honeypots lure attackers by emulating vulnerabilities, yet balancing deep attacker engagement with resource security remains challenging. We propose an adaptive honeypot system powered by a Large Language Model (LLM). Unlike traditional decoys, the proposed system generates authentic, shell-like responses without exposing a real operating system, facilitating convincing request–response interactions that capture valuable attacker behavioral data. To enhance defensive capabilities, we employ a Hierarchical Probabilistic Automaton (HPA) to model attack transitions and dynamically adapt honeypot strategies. Experimental results demonstrate that our LLM-driven approach achieves superior attacker engagement and data collection while maintaining significantly lower security risks than conventional methods.
-
+    Unlike traditional decoys, this work proposed an LLM powered honeypot system that generates authentic, shell-like responses without exposing a real operating system, facilitating convincing request–response interactions that capture valuable attacker behavioral data. To enhance defensive capabilities, we employ a Hierarchical Probabilistic Automaton (HPA) to model attack transitions and dynamically adapt honeypot strategies. Experimental results demonstrate that this approach achieves superior attacker engagement and data collection while maintaining significantly lower security risks.
+   <p class="related-publication">
+      <strong>Related publication:</strong>
+       <a href="https://link.springer.com/chapter/10.1007/978-981-97-8801-9_13" target="_blank" rel="noopener">
+         ICICS'24
+       </a>
+       <a href="https://ieeexplore.ieee.org/abstract/document/11481625" target="_blank" rel="noopener">
+         IEEE TNSE
+       </a>
+     </p>
   </div>
+  
   <figure class="research-figure">
     <img src="/images/HoneyLLMd.png"
          alt="LLM-powered adaptive honeypot architecture">
@@ -148,7 +162,19 @@ author_profile: true
 <div class="research-project">
   <div class="research-description">
 This research investigates a cloud–edge cooperative defense system that leverages link state-based topology information to detect and trace IFA attacks in Named Data Networking (NDN). Routers in the edge layer share link-state data and traffic statistics with a detection engine in the cloud layer, enabling coordinated, topology-aware attack detection and traceback. Our experimental results demonstrate that the proposed method achieves over 99.9% detection accuracy and 80-95% mitigation efficiency under diverse network topologies.
+
+    <p class="related-publication">
+      <strong>Related publication:</strong>
+       <a href="https://ieeexplore.ieee.org/abstract/document/11587294" target="_blank" rel="noopener">
+         ICC'26
+       </a>
+       <a href="https://www.sciencedirect.com/science/article/abs/pii/S138912862600705X" target="_blank" rel="noopener">
+         ComNet
+       </a>
+     </p>
+    
    </div>
+
 
   <figure class="research-figure">
     <img src="/images/LinkNDN.PNG"
@@ -168,6 +194,13 @@ This research investigates a cloud–edge cooperative defense system that levera
 
   <div class="research-description">
     PeerLumen investigates a client-side honeypot telescope for monitoring and analyzing security threats in the Bitcoin peer-to-peer (P2P) network. By observing network connections and peer behaviors, the system aims to collect valuable threat intelligence and characterize malicious activities within the Bitcoin ecosystem. The research explores network-level monitoring across IPv4, IPv6, and Tor onion services, providing insights into emerging threats, suspicious connection patterns, and the security dynamics of decentralized P2P networks.
+
+    <p class="related-publication">
+      <strong>Related publication:</strong>
+       <a href="https://ieeexplore.ieee.org/abstract/document/11664691" target="_blank" rel="noopener">
+         DSN'26
+       </a>
+     </p>
   </div>
 
   <figure class="research-figure">
