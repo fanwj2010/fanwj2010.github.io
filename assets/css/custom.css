@@ -1,0 +1,7 @@
+/* Adjust spacing between profile sidebar and main content */
+
+@media screen and (min-width: 925px) {
+    .sidebar {
+        margin-right: 35px !important;
+    }
+}
