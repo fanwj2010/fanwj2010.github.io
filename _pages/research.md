@@ -60,7 +60,7 @@ author_profile: true
 
   <div class="research-description">
 
-    VulnLoop explores an AI agent-driven approach to automated software vulnerability discovery and repair. By leveraging intelligent agents and LLM-based reasoning, the framework aims to identify potential software vulnerabilities, analyze their root causes, and generate appropriate code-level fixes. Through an iterative discovery, analysis, repair, and validation process, this research investigates how autonomous AI agents can improve software security and facilitate continuous vulnerability remediation.
+    VulnLoop explores an AI agent-driven approach to automated software vulnerability discovery and repair. By leveraging intelligent agents reasoning, the framework aims to identify potential software vulnerabilities, analyze their root causes, and generate appropriate code-level fixes. Through an iterative discovery, analysis, repair, and validation process, this research investigates how autonomous AI agents can improve software security and facilitate continuous vulnerability remediation.
   </div>
 
   <figure class="research-figure">
@@ -81,7 +81,7 @@ author_profile: true
 
   <div class="research-description">
 
-    LLM-CW investigates the application of Large Language Models (LLMs) to cyber wargaming, focusing on evolving attack-defense interactions and adaptive strategy development. It explores how LLM-driven agents can simulate attacker and defender behaviors and adapt their strategies in response to evolving threats and defensive actions. By integrating intelligent decision-making into cyber wargaming, this work aims to advance autonomous adversarial simulation and strategic analysis for cybersecurity.
+    LLM-CW investigates the application of Large Language Models to cyber wargaming, focusing on evolving attack-defense interactions and adaptive strategy development. It explores how LLM-driven agents can simulate attacker and defender behaviors and adapt their strategies in response to evolving threats and defensive actions. By integrating intelligent decision-making into cyber wargaming, this work aims to advance autonomous adversarial simulation and strategic analysis for cybersecurity.
   </div>
 
   <figure class="research-figure">
