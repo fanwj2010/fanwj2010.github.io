@@ -96,8 +96,21 @@
   color: #ffc700 !important;
 }
 
+
 /* Mobile menu button */
 .greedy-nav__toggle {
   background-color: #32006e !important;
   color: #ffffff !important;
+}
+
+/* Hide the entire footer */
+.page__footer {
+  display: none !important;
+}
+
+/* Widen the navigation bar */
+.masthead__inner-wrap {
+  max-width: 1440px !important;
+  width: 95% !important;
+  margin: 0 auto !important;
 }
