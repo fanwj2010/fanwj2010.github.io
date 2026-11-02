@@ -27,7 +27,7 @@ Welcome to my personal webpage! I am currently a tenure-track Assistant Professo
 }
 
 .news-ticker-track {
-  animation: news-scroll 20s linear infinite;
+  animation: news-scroll 15s linear infinite;
 }
 
 .news-ticker:hover .news-ticker-track {
@@ -45,13 +45,13 @@ Welcome to my personal webpage! I am currently a tenure-track Assistant Professo
 .news-ticker ul {
   margin-top: 0;
   margin-bottom: 0;
-  padding-left: 20px;
+  padding-left: 10px;
 }
 -->  
 
 .news-ticker li {
   margin-bottom: 14px;
-  line-height: 1.6;
+  line-height: 1.5;
 }
 
 @keyframes news-scroll {
