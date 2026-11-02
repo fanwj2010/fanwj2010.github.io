@@ -49,3 +49,67 @@
 #main {
   max-width: 1024px;
 }
+
+
+/* =================================
+   UW-inspired website color theme
+   ================================= */
+
+/* Overall page background */
+body {
+  background-color: #faf9fc;
+}
+
+/* Main content area */
+#main,
+.initial-content {
+  background-color: #faf9fc;
+}
+
+/* Top navigation bar */
+.masthead {
+  background-color: #32006e;
+  border-bottom: 3px solid #b7a57a;
+}
+
+/* Navigation links */
+.greedy-nav {
+  background-color: #32006e;
+}
+
+.greedy-nav a,
+.greedy-nav .site-title {
+  color: #ffffff !important;
+}
+
+.greedy-nav a:hover {
+  color: #ffc700 !important;
+}
+
+/* Page headings */
+.page__title,
+.archive__subtitle,
+h1, h2, h3 {
+  color: #32006e;
+}
+
+/* Links */
+a {
+  color: #4b2e83;
+}
+
+a:hover {
+  color: #85754d;
+}
+
+/* Section heading decoration */
+.page__content h2 {
+  border-bottom: 2px solid #e8e3d3;
+  padding-bottom: 6px;
+}
+
+/* Sidebar profile links */
+.author__urls a {
+  color: #4b2e83;
+}
+
