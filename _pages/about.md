@@ -16,7 +16,7 @@ Welcome to my personal webpage! I am currently a tenure-track Assistant Professo
 - **Best Paper Nomination**, *IEEE International Conference on Blockchain and Cryptocurrency (ICBC)*, May 2021.
 
 
-## News
+<h2 class="news-title">News</h2>
 <style>
 .news-ticker {
   height: 360px;
