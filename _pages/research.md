@@ -134,7 +134,7 @@ author_profile: true
       <strong>Related publications:</strong>
        <a href="https://link.springer.com/chapter/10.1007/978-981-97-8801-9_13" target="_blank" rel="noopener">
          ICICS'24 
-       </a>,
+       </a> <span>, </span>
        <a href="https://ieeexplore.ieee.org/abstract/document/11481625" target="_blank" rel="noopener">
          IEEE TNSE
        </a>
@@ -166,7 +166,7 @@ This research investigates a cloud–edge cooperative defense system that levera
       <strong>Related publications:</strong>
        <a href="https://ieeexplore.ieee.org/abstract/document/11587294" target="_blank" rel="noopener">
          ICC'26
-       </a>,
+       </a> <span>, </span>
        <a href="https://www.sciencedirect.com/science/article/abs/pii/S138912862600705X" target="_blank" rel="noopener">
          ComNet
        </a>
