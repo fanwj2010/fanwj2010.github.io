@@ -251,3 +251,17 @@ blockquote {
 .page__footer {
   display: none !important;
 }
+
+
+/* Site logo */
+.site-logo {
+  max-height: 40px !important;
+  width: auto !important;
+  margin-right: 8px !important;
+  vertical-align: middle;
+}
+
+.greedy-nav .site-title {
+  display: flex;
+  align-items: center;
+}
