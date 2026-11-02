@@ -64,7 +64,7 @@ author_profile: true
   </div>
 
   <figure class="research-figure">
-    <img src="/images/VulnLoop.png"
+    <img src="/images/VulnLoop.PNG"
          alt="VulnLoop: AI agent-driven vulnerability discovery and repair">
   </figure>
 
@@ -85,7 +85,7 @@ author_profile: true
   </div>
 
   <figure class="research-figure">
-    <img src="/images/LLM-CW.png"
+    <img src="/images/LLM-CW.PNG"
          alt="LLM-driven cyber wargaming">
   </figure>
 
@@ -133,7 +133,7 @@ author_profile: true
   </div>
 
   <figure class="research-figure">
-    <img src="/images/PentestLLM.png"
+    <img src="/images/PentestLLM.PNG"
          alt="PentestLLM: LLM-enabled penetration testing">
   </figure>
 
@@ -153,7 +153,7 @@ author_profile: true
   </div>
 
   <figure class="research-figure">
-    <img src="/images/PeerLumen.png"
+    <img src="/images/PeerLumen.PNG"
          alt="PeerLumen: Bitcoin P2P network telescope honeypot">
   </figure>
 
