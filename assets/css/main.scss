@@ -55,61 +55,37 @@
    UW-inspired website color theme
    ================================= */
 
-/* Overall page background */
-body {
-  background-color: #faf9fc;
-}
-
-/* Main content area */
-#main,
-.initial-content {
-  background-color: #faf9fc;
-}
 
 /* Top navigation bar */
 .masthead {
-  background-color: #32006e;
+  background: #32006e !important;
   border-bottom: 3px solid #b7a57a;
 }
 
-/* Navigation links */
-.greedy-nav {
-  background-color: #32006e;
+/* Navigation container */
+.masthead__inner-wrap {
+  background: #32006e !important;
 }
 
+.greedy-nav {
+  background: #32006e !important;
+}
+
+/* Navigation menu links */
 .greedy-nav a,
 .greedy-nav .site-title {
+  background: transparent !important;
   color: #ffffff !important;
 }
 
+/* Navigation hover */
 .greedy-nav a:hover {
+  background: transparent !important;
   color: #ffc700 !important;
 }
 
-/* Page headings */
-.page__title,
-.archive__subtitle,
-h1, h2, h3 {
-  color: #32006e;
+/* Dropdown menu toggle */
+.greedy-nav__toggle {
+  background: #32006e !important;
+  color: #ffffff !important;
 }
-
-/* Links */
-a {
-  color: #4b2e83;
-}
-
-a:hover {
-  color: #85754d;
-}
-
-/* Section heading decoration */
-.page__content h2 {
-  border-bottom: 2px solid #e8e3d3;
-  padding-bottom: 6px;
-}
-
-/* Sidebar profile links */
-.author__urls a {
-  color: #4b2e83;
-}
-
