@@ -9,7 +9,7 @@ author_profile: true
 /* Research project layout */
 .research-project {
   display: grid;
-  grid-template-columns: 1.2fr 0.8fr;
+  grid-template-columns: 1fr 1fr;
   gap: 25px;
   align-items: center;
   margin: 20px 0 45px 0;
@@ -17,7 +17,7 @@ author_profile: true
 
 /* Description text */
 .research-description {
-  font-size: 0.9em;
+  font-size: 0.7em;
   line-height: 1.6;
   text-align: left;
 }
@@ -54,7 +54,7 @@ author_profile: true
 <!-- VulnLoop -->
 <!-- ============================================ -->
 
-## VulnLoop: AI Agent-Driven Vulnerability Discovery and Repair
+### VulnLoop: AI Agent-Driven Vulnerability Discovery and Repair
 
 <div class="research-project">
 
@@ -75,7 +75,7 @@ author_profile: true
 <!-- LLM-CW -->
 <!-- ============================================ -->
 
-## LLM-CW: LLM-Driven Cyber Wargaming for Evolving Attack-Defense Dynamics and Strategy Adaptation
+### LLM-CW: LLM-Driven Cyber Wargaming for Evolving Attack-Defense Dynamics and Strategy Adaptation
   
 <div class="research-project">
 
@@ -98,7 +98,7 @@ author_profile: true
 <!-- ============================================ -->
 
 
-## HoneyLLMd: A Large Language Model-Powered Adaptive Honeypot System
+### HoneyLLMd: A Large Language Model-Powered Adaptive Honeypot System
 
 <div class="research-project">
 
@@ -123,7 +123,7 @@ author_profile: true
 <!-- PentestLLM -->
 <!-- ============================================ -->
 
-## PentestLLM: LLM-Enabled Penetration Testing
+### PentestLLM: LLM-Enabled Penetration Testing
 
 <div class="research-project">
 
@@ -144,7 +144,7 @@ author_profile: true
 <!-- PeerLumen -->
 <!-- ============================================ -->
 
-## PeerLumen: Bitcoin P2P Network Telescope Honeypot
+### PeerLumen: Bitcoin P2P Network Telescope Honeypot
 
 <div class="research-project">
 
