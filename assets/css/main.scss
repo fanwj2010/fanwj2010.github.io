@@ -51,11 +51,6 @@
 }
 
 
-/* =================================
-   UW-inspired website color theme
-   ================================= */
-
-
 
 /* =================================
    UW Purple Navigation Bar
@@ -113,4 +108,128 @@
   max-width: 1440px !important;
   width: 95% !important;
   margin: 0 auto !important;
+}
+
+
+
+
+
+/* =========================================
+   UW-inspired Theme: Main Content
+   ========================================= */
+
+/* UW brand colors:
+   Husky Purple: #32006e
+   Spirit Purple: #4b2e83
+   Spirit Gold:  #ffc700
+   Husky Gold:   #e8e3d3
+*/
+
+/* Overall website background */
+html,
+body {
+  background-color: #faf9fc !important;
+}
+
+/* Main content background */
+#main,
+.initial-content,
+.page,
+.archive {
+  background-color: #faf9fc !important;
+}
+
+/* Main content text */
+.page__content {
+  color: #333333;
+  line-height: 1.7;
+}
+
+/* Page titles and section headings */
+.page__title,
+.archive__subtitle,
+.page__content h1,
+.page__content h2,
+.page__content h3,
+.page__content h4 {
+  color: #32006e !important;
+}
+
+/* Section heading decoration */
+.page__content h2 {
+  border-bottom: 2px solid #e8e3d3;
+  padding-bottom: 6px;
+}
+
+/* Hyperlinks */
+.page__content a,
+.archive a {
+  color: #4b2e83;
+}
+
+.page__content a:hover,
+.archive a:hover {
+  color: #85754d;
+}
+
+/* Sidebar */
+.sidebar {
+  background-color: #faf9fc;
+}
+
+.author__name {
+  color: #32006e;
+}
+
+.author__bio {
+  color: #444444;
+}
+
+.author__urls a {
+  color: #4b2e83 !important;
+}
+
+.author__urls a:hover {
+  color: #85754d !important;
+}
+
+/* Buttons */
+.btn,
+button,
+input[type="submit"] {
+  background-color: #4b2e83 !important;
+  color: #ffffff !important;
+  border-color: #4b2e83 !important;
+}
+
+.btn:hover,
+button:hover,
+input[type="submit"]:hover {
+  background-color: #32006e !important;
+}
+
+/* Tables */
+.page__content table th {
+  background-color: #32006e;
+  color: #ffffff;
+}
+
+.page__content table td {
+  background-color: #ffffff;
+}
+
+/* Horizontal separators */
+hr {
+  border-top: 1px solid #e8e3d3;
+}
+
+/* Blockquotes */
+blockquote {
+  border-left: 4px solid #ffc700;
+  color: #555555;
+}
+
+/* Footer hidden */
+.page__footer {
+  display: none !important;
 }
