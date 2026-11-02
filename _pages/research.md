@@ -10,14 +10,14 @@ author_profile: true
 .research-project {
   display: grid;
   grid-template-columns: 0.9fr 1.1fr;
-  gap: 20px;
+  gap: 15px;
   align-items: center;
   margin: 20px 0 45px 0;
 }
 
 /* Description text */
 .research-description {
-  font-size: 0.7em;
+  font-size: 0.75em;
   line-height: 1.6;
   text-align: left;
 }
