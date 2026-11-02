@@ -94,6 +94,28 @@ author_profile: true
 
 
 <!-- ============================================ -->
+<!-- PentestLLM -->
+<!-- ============================================ -->
+
+### PentestLLM: LLM-Enabled Penetration Testing
+
+<div class="research-project">
+
+  <div class="research-description">
+
+    PentestLLM explores the application of Large Language Models (LLMs) to penetration testing, aiming to make security assessment more intelligent and automated. By leveraging LLM-based reasoning and tool integration, the framework investigates how AI can assist in understanding testing objectives, identifying potential attack paths, executing penetration-testing workflows, and interpreting security assessment results. This research aims to advance LLM-enabled penetration testing and reduce the complexity of security evaluation.
+  </div>
+
+  <figure class="research-figure">
+    <img src="/images/PentestLLM.PNG"
+         alt="PentestLLM: LLM-enabled penetration testing">
+  </figure>
+
+</div>
+
+
+
+<!-- ============================================ -->
 <!-- HoneyLLMd -->
 <!-- ============================================ -->
 
@@ -117,6 +139,23 @@ author_profile: true
   </figure>
 </div>
 
+<!-- ============================================ -->
+<!-- Link state for IFA -->
+<!-- ============================================ -->
+
+### Link State-enabled IFA Threat Detection and Tracing in Named Data Networking
+
+<div class="research-project">
+  <div class="research-description">
+This research investigates a cloud–edge cooperative defense system that leverages link state-based topology information to detect and trace IFA attacks in Named Data Networking (NDN). Routers in the edge layer share link-state data and traffic statistics with a detection engine in the cloud layer, enabling coordinated, topology-aware attack detection and traceback. Our experimental results demonstrate that the proposed method achieves over 99.9% detection accuracy and 80-95% mitigation efficiency under diverse network topologies.
+   </div>
+
+  <figure class="research-figure">
+    <img src="/images/LinkNDN.PNG"
+         alt="LinkStateIFA">
+  </figure>
+</div>
+
 
 
 <!-- ============================================ -->
@@ -137,27 +176,5 @@ author_profile: true
   </figure>
 
 </div>
-
-<!-- ============================================ -->
-<!-- PentestLLM -->
-<!-- ============================================ -->
-
-### PentestLLM: LLM-Enabled Penetration Testing
-
-<div class="research-project">
-
-  <div class="research-description">
-
-    PentestLLM explores the application of Large Language Models (LLMs) to penetration testing, aiming to make security assessment more intelligent and automated. By leveraging LLM-based reasoning and tool integration, the framework investigates how AI can assist in understanding testing objectives, identifying potential attack paths, executing penetration-testing workflows, and interpreting security assessment results. This research aims to advance LLM-enabled penetration testing and reduce the complexity of security evaluation.
-  </div>
-
-  <figure class="research-figure">
-    <img src="/images/PentestLLM.PNG"
-         alt="PentestLLM: LLM-enabled penetration testing">
-  </figure>
-
-</div>
-
-
 
 
