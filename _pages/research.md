@@ -120,6 +120,25 @@ author_profile: true
 
 
 <!-- ============================================ -->
+<!-- PeerLumen -->
+<!-- ============================================ -->
+
+### PeerLumen: Bitcoin P2P Network Telescope Honeypot
+
+<div class="research-project">
+
+  <div class="research-description">
+    PeerLumen investigates a client-side honeypot telescope for monitoring and analyzing security threats in the Bitcoin peer-to-peer (P2P) network. By observing network connections and peer behaviors, the system aims to collect valuable threat intelligence and characterize malicious activities within the Bitcoin ecosystem. The research explores network-level monitoring across IPv4, IPv6, and Tor onion services, providing insights into emerging threats, suspicious connection patterns, and the security dynamics of decentralized P2P networks.
+  </div>
+
+  <figure class="research-figure">
+    <img src="/images/PeerLumen.PNG"
+         alt="PeerLumen: Bitcoin P2P network telescope honeypot">
+  </figure>
+
+</div>
+
+<!-- ============================================ -->
 <!-- PentestLLM -->
 <!-- ============================================ -->
 
@@ -139,25 +158,6 @@ author_profile: true
 
 </div>
 
-
-<!-- ============================================ -->
-<!-- PeerLumen -->
-<!-- ============================================ -->
-
-### PeerLumen: Bitcoin P2P Network Telescope Honeypot
-
-<div class="research-project">
-
-  <div class="research-description">
-    PeerLumen investigates a client-side honeypot telescope for monitoring and analyzing security threats in the Bitcoin peer-to-peer (P2P) network. By observing network connections and peer behaviors, the system aims to collect valuable threat intelligence and characterize malicious activities within the Bitcoin ecosystem. The research explores network-level monitoring across IPv4, IPv6, and Tor onion services, providing insights into emerging threats, suspicious connection patterns, and the security dynamics of decentralized P2P networks.
-  </div>
-
-  <figure class="research-figure">
-    <img src="/images/PeerLumen.PNG"
-         alt="PeerLumen: Bitcoin P2P network telescope honeypot">
-  </figure>
-
-</div>
 
 
 
