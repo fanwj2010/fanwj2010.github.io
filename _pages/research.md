@@ -189,7 +189,7 @@ This research investigates a cloud–edge cooperative defense system that levera
 <!-- PeerLumen -->
 <!-- ============================================ -->
 
-### PeerLumen: Bitcoin P2P Network Telescope Honeypot
+### PeerLumen: Bitcoin P2P Network Honeypot Telescope
 
 <div class="research-project">
 
@@ -206,7 +206,7 @@ This research investigates a cloud–edge cooperative defense system that levera
 
   <figure class="research-figure">
     <img src="/images/PeerLumen.PNG"
-         alt="PeerLumen: Bitcoin P2P network telescope honeypot">
+         alt="PeerLumen: Bitcoin P2P network honeypot telescope">
   </figure>
 
 </div>
