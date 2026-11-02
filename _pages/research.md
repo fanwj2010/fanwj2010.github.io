@@ -163,7 +163,7 @@ author_profile: true
 This research investigates a cloud–edge cooperative defense system that leverages link state-based topology information to detect and trace IFA attacks in Named Data Networking (NDN). Routers in the edge layer share link-state data and traffic statistics with a detection engine in the cloud layer, enabling coordinated, topology-aware attack detection and traceback. Our experimental results demonstrate that the proposed method achieves over 99.9% detection accuracy and 80-95% mitigation efficiency under diverse network topologies.
 
     <p class="related-publication">
-      <strong>Related publication:</strong>
+      <strong>Related publications:</strong>
        <a href="https://ieeexplore.ieee.org/abstract/document/11587294" target="_blank" rel="noopener">
          ICC'26
        </a>,
@@ -195,7 +195,7 @@ This research investigates a cloud–edge cooperative defense system that levera
     PeerLumen investigates a honeypot telescope for monitoring and analyzing security threats in the Bitcoin P2P network. By observing network connections and peer behaviors, the system aims to collect valuable threat intelligence and characterize malicious activities within the Bitcoin ecosystem. The research explores network-level monitoring across IPv4, IPv6, and Tor onion services, providing insights into emerging threats, suspicious connection patterns, and the security dynamics of decentralized P2P networks.
 
     <p class="related-publication">
-      <strong>Related publication:</strong>
+      <strong>Related publications:</strong>
        <a href="https://ieeexplore.ieee.org/abstract/document/11664691" target="_blank" rel="noopener">
          DSN'26
        </a>
