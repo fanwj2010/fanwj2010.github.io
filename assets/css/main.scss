@@ -36,3 +36,9 @@
     "layout/archive",
     "layout/sidebar"
 ;
+
+@media (min-width: 925px) {
+  .sidebar {
+    padding-right: 30px;
+  }
+}
