@@ -9,7 +9,7 @@ author_profile: true
 /* Research project layout */
 .research-project {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1.2fr 0.8fr;
   gap: 25px;
   align-items: center;
   margin: 20px 0 45px 0;
@@ -47,6 +47,10 @@ author_profile: true
   }
 }
 </style>
+
+<!-- ============================================ -->
+<!-- HoneyLLMd -->
+<!-- ============================================ -->
 
 
 ## HoneyLLMd: A Large Language Model-Powered Adaptive Honeypot System
