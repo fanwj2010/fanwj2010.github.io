@@ -56,45 +56,48 @@
    ================================= */
 
 
+
 /* =================================
    UW Purple Navigation Bar
    ================================= */
 
-.masthead,
+/* Outer navigation bar */
+.masthead {
+  background-color: #32006e !important;
+  border-bottom: 3px solid #b7a57a !important;
+}
+
+/* Navigation containers */
 .masthead__inner-wrap,
 .masthead__menu,
-.greedy-nav {
-  background: #32006e !important;
+.greedy-nav,
+.greedy-nav .visible-links,
+.greedy-nav .hidden-links {
   background-color: #32006e !important;
 }
 
-/* Navigation links */
-.greedy-nav .visible-links a,
-.greedy-nav .hidden-links a,
-.greedy-nav .site-title {
-  color: #ffffff !important;
-  background: transparent !important;
+/* Remove white backgrounds from navigation elements */
+.masthead__inner-wrap *,
+.masthead__menu *,
+.greedy-nav * {
+  background-color: transparent !important;
 }
 
-/* Navigation link hover */
+/* Site title and menu text */
+.greedy-nav .site-title,
+.greedy-nav .visible-links a,
+.greedy-nav .hidden-links a {
+  color: #ffffff !important;
+}
+
+/* Hover effect */
 .greedy-nav .visible-links a:hover,
 .greedy-nav .hidden-links a:hover {
   color: #ffc700 !important;
-  background: transparent !important;
 }
 
-/* Navigation underline */
-.greedy-nav .visible-links a:before {
-  background: #ffc700 !important;
-}
-
-/* Mobile menu toggle */
+/* Mobile menu button */
 .greedy-nav__toggle {
-  background: #32006e !important;
+  background-color: #32006e !important;
   color: #ffffff !important;
-}
-
-/* Gold bottom border */
-.masthead {
-  border-bottom: 3px solid #b7a57a !important;
 }
