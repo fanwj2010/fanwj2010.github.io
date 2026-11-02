@@ -252,18 +252,7 @@ blockquote {
 }
 
 
-/* Site logo */
-.site-logo {
-  max-height: 40px !important;
-  width: auto !important;
-  margin-right: 8px !important;
-  vertical-align: middle;
-}
 
-.greedy-nav .site-title {
-  display: flex;
-  align-items: center;
-}
 
 
 /* News section title */
@@ -280,4 +269,20 @@ blockquote {
 #theme-toggle,
 .toggle-dark-mode {
   display: none !important;
+}
+
+/* UW Logo in navigation bar */
+.site-title-with-logo {
+  display: flex !important;
+  align-items: center !important;
+  white-space: nowrap;
+}
+
+.site-logo {
+  height: 38px !important;
+  width: auto !important;
+  max-width: 150px !important;
+  object-fit: contain;
+  margin-right: 10px;
+  display: inline-block !important;
 }
