@@ -47,7 +47,7 @@
 
 /* Increase the width of page */
 #main {
-  max-width: 980px;
+  max-width: 1024px;
 }
 
 
@@ -106,9 +106,9 @@
 
 /* Align navigation menu to the right */
 /* Align navigation bar with the main page content */
-@media (min-width: 925px) {
+@media (min-width: 960px) {
   .masthead__inner-wrap {
-    max-width: 1024px !important;
+    max-width: 1000px !important;
     width: 100% !important;
     margin-left: auto !important;
     margin-right: auto !important;
