@@ -19,7 +19,7 @@ Welcome to my personal webpage! I am currently a tenure-track Assistant Professo
 ## News
 <style>
 .news-ticker {
-  height: 480px;
+  height: 360px;
   overflow: hidden;
   position: relative;
   border: 1px solid #ddd;
