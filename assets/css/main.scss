@@ -289,3 +289,11 @@ blockquote {
   padding-bottom: 8px;
   font-weight: 700;
 }
+
+
+/* Hide dark mode toggle */
+.theme-toggle,
+#theme-toggle,
+.toggle-dark-mode {
+  display: none !important;
+}
