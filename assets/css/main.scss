@@ -292,3 +292,11 @@ blockquote {
   color: #333 !important;
   display: inline-block;
 }
+
+.related-publication a {
+  text-decoration: none !important;
+}
+
+.related-publication a:hover {
+  text-decoration: underline !important;
+}
