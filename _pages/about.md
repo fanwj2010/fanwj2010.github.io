@@ -19,7 +19,7 @@ Welcome to my personal profile page! I am currently a tenure-track Assistant Pro
 ## News
 <style>
 .news-ticker {
-  height: 240px;
+  height: 480px;
   overflow: hidden;
   position: relative;
   border: 1px solid #ddd;
@@ -97,7 +97,7 @@ Welcome to my personal profile page! I am currently a tenure-track Assistant Pro
 </div>
 
 
----
+<!--
 ## News
 - **2026-10-30:** I have been invited to serve as a TPC member for IEEE ICC.
 - **2026-05-07:** I have been invited to serve as a TPC member for IEEE CCNC.
@@ -106,4 +106,4 @@ Welcome to my personal profile page! I am currently a tenure-track Assistant Pro
 - **2026-04-12:** Our paper submitted to the main conference symposium of the IEEE Computers, Software, and Applications Conference (COMPSAC 2026) has been accepted as a full paper (up to 10 pages) for inclusion in the proceedings. Only 28.5% of submitted papers were accepted as full papers.
 - **2026-04-06:** Our paper has been accepted with no further changes as a Regular Paper in an upcoming issue of the IEEE Transactions on Network Science and Engineering.
 - **2026-02-22:** Our paper prepared by a group of MCL students has been accepted for presentation and publication at IEEE SVCC 2026.
----
+-->
