@@ -71,7 +71,9 @@ Welcome to my personal webpage! I am currently a tenure-track Assistant Professo
 
     <ul>
       <li><strong>2026-10-30:</strong> I have been invited to serve as a TPC member for IEEE ICC.</li>
-
+       
+      <li><strong>2026-08-13:</strong> Our paper about Leveraging Cloud-Edge Architecture to enable GAT and Link State-based Defense against Attacks in NDN has been accepted for publication by Computer Networks.</li>
+      
       <li><strong>2026-05-07:</strong> I have been invited to serve as a TPC member for IEEE CCNC.</li>
 
       <li><strong>2026-04-28:</strong> I have been invited to serve as a TPC member for ISD.</li>
@@ -88,6 +90,8 @@ Welcome to my personal webpage! I am currently a tenure-track Assistant Professo
     <!-- Duplicate list for seamless scrolling -->
     <ul aria-hidden="true">
       <li><strong>2026-10-30:</strong> I have been invited to serve as a TPC member for IEEE ICC.</li>
+
+      <li><strong>2026-08-13:</strong> Our paper about Leveraging Cloud-Edge Architecture to enable GAT and Link State-based Defense against Attacks in NDN has been accepted for publication by Computer Networks.</li>
 
       <li><strong>2026-05-07:</strong> I have been invited to serve as a TPC member for IEEE CCNC.</li>
 
