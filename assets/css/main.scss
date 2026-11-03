@@ -262,14 +262,37 @@ blockquote {
   color: #555555;
 }
 
+/*=================
+Footer section
+===================*/
+
 /* Footer hidden */
 .page__footer {
   display: none !important;
 }
 
+/* Show only the custom visitor counter in footer */
+.page__footer {
+  display: block !important;
+}
+
+.page__footer .page__footer-follow,
+.page__footer .page__footer-copyright {
+  display: none !important;
+}
+
+.visitor-counter {
+  text-align: center;
+  padding: 12px 0;
+  font-size: 13px;
+  color: #777777;
+}
 
 
 
+/*===================
+News Section
+===================*/
 
 /* News section title */
 .news-title {
