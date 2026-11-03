@@ -425,3 +425,38 @@ html[data-theme="dark"] .news-title,
 html.dark .news-title {
   color: #ff8585 !important;
 }
+
+
+/* Fix white area at the top in Dark Mode */
+
+html[data-theme="dark"],
+html.dark {
+  background-color: #181818 !important;
+  min-height: 100% !important;
+}
+
+html[data-theme="dark"] body,
+html.dark body {
+  background-color: #181818 !important;
+  min-height: 100vh !important;
+}
+
+/* Ensure all page wrappers use the dark background */
+html[data-theme="dark"] #main,
+html.dark #main,
+html[data-theme="dark"] .initial-content,
+html.dark .initial-content,
+html[data-theme="dark"] .page,
+html.dark .page,
+html[data-theme="dark"] .page__inner-wrap,
+html.dark .page__inner-wrap,
+html[data-theme="dark"] .archive,
+html.dark .archive {
+  background-color: #181818 !important;
+}
+
+/* Preserve UW purple navigation bar */
+html[data-theme="dark"] .masthead,
+html.dark .masthead {
+  background-color: #32006e !important;
+}
