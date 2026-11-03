@@ -104,7 +104,6 @@
 }
 
 
-/* Align navigation menu to the right */
 /* Align navigation bar with the main page content */
 @media (min-width: 960px) {
   .masthead__inner-wrap {
@@ -129,7 +128,19 @@
   }
 }
 
+/* Align the logo and site title with the left edge of the sidebar */
 
+  #site-nav .visible-links > .masthead__menu-item--lg {
+    margin-left: 0 !important;
+    padding-left: 0 !important;
+    margin-right: auto !important;
+  }
+
+  #site-nav .visible-links > .masthead__menu-item--lg > a {
+    padding-left: 0 !important;
+    margin-left: 0 !important;
+  }
+}
 
 /* =========================================
    UW-inspired Theme: Main Content
