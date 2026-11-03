@@ -121,13 +121,16 @@
     margin-right: auto !important;
   }
 
+   
   /* Keep the native greedy-nav flex layout */
+   /*
   #site-nav .visible-links {
     display: flex !important;
     flex: 1 1 auto !important;
     justify-content: flex-end !important;
   }
-
+*/
+   
   /* Keep logo/title on the left, with other links on the right */
   #site-nav .visible-links > li.masthead__menu-item--lg {
     margin-right: auto !important;
