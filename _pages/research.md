@@ -130,15 +130,13 @@ author_profile: true
 <div class="research-project">
   <div class="research-description">
     Unlike traditional decoys, this work proposed an LLM powered honeypot system that generates authentic, shell-like responses without exposing a real operating system, facilitating convincing request–response interactions that capture valuable attacker behavioral data. To enhance defensive capabilities, we employ a Hierarchical Probabilistic Automaton (HPA) to model attack transitions and dynamically adapt honeypot strategies. Experimental results demonstrate that this approach achieves superior attacker engagement and data collection while maintaining significantly lower security risks.
-   <p class="related-publication">
-      <strong>Related publications:</strong>
-       <a href="https://link.springer.com/chapter/10.1007/978-981-97-8801-9_13" target="_blank" rel="noopener">
-         ICICS'24
-       </a><span class="publication-separator">,</span> 
-       <a href="https://ieeexplore.ieee.org/abstract/document/11481625" target="_blank" rel="noopener">
-         IEEE TNSE
-       </a>
-     </p>
+   
+    <p class="related-publication">
+       <strong>Related publications:</strong>
+          <a class="publication-link" href="https://link.springer.com/chapter/10.1007/978-981-97-8801-9_13" target="_blank" rel="noopener">ICICS'24</a>
+             <span class="publication-separator">, </span>
+         <a class="publication-link" href="https://ieeexplore.ieee.org/abstract/document/11481625" target="_blank" rel="noopener">IEEE TNSE</a>
+    </p>
   </div>
   
   <figure class="research-figure">
