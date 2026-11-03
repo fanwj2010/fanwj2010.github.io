@@ -103,10 +103,11 @@
   display: none !important;
 }
 
-/* Align navigation bar with the page content and sidebar */
+
+/* Align navbar elements with the two-column page layout */
 @media (min-width: 925px) {
 
-  /* Match the main page container width */
+  /* Use the same overall width as the page layout */
   .masthead__inner-wrap {
     max-width: 1280px !important;
     width: 100% !important;
@@ -116,18 +117,21 @@
     padding-right: 0 !important;
   }
 
-  /* Keep the logo/title at the left edge */
+  /* Preserve the native greedy-nav layout */
   #site-nav .visible-links > li.masthead__menu-item--lg {
     margin-left: 0 !important;
-    padding-left: 0 !important;
     margin-right: auto !important;
   }
 
-  #site-nav .visible-links > li.masthead__menu-item--lg > a {
+  /* Logo and title */
+  #site-nav .site-title-with-logo {
+    display: flex !important;
+    align-items: center !important;
     padding-left: 0 !important;
-    margin-left: 0 !important;
   }
 }
+
+
 
 /* =========================================
    UW-inspired Theme: Main Content
