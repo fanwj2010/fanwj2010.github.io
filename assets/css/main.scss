@@ -103,31 +103,32 @@
   display: none !important;
 }
 
-
-/* Align site logo/title left and navigation links right */
+/* Align navigation bar with the page content and sidebar */
 @media (min-width: 925px) {
-  /* Keep the original AcademicPages greedy-nav layout */
-  #site-nav .visible-links {
-    width: auto !important;
-    justify-content: flex-start !important;
-  }
 
-  /* Push the remaining navigation items to the right */
-  #site-nav .visible-links > .masthead__menu-item--lg {
+  /* Match the main page container width */
+  .masthead__inner-wrap {
+    max-width: 1280px !important;
+    width: 100% !important;
+    margin-left: auto !important;
     margin-right: auto !important;
-    margin-left: 0 !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
   }
 
-  /* Align logo and title to the left */
-  #site-nav .visible-links > .masthead__menu-item--lg > a {
-    display: flex !important;
-    align-items: center !important;
-    justify-content: flex-start !important;
+  /* Keep the logo/title at the left edge */
+  #site-nav .visible-links > li.masthead__menu-item--lg {
+    margin-left: 0 !important;
     padding-left: 0 !important;
-    padding-right: 20px !important;
+    margin-right: auto !important;
+  }
+
+  #site-nav .visible-links > li.masthead__menu-item--lg > a {
+    padding-left: 0 !important;
     margin-left: 0 !important;
   }
 }
+
 /* =========================================
    UW-inspired Theme: Main Content
    ========================================= */
