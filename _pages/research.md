@@ -163,14 +163,11 @@ author_profile: true
 This research investigates a cloud–edge cooperative defense system that leverages link state-based topology information to detect and trace IFA attacks in Named Data Networking (NDN). Routers in the edge layer share link-state data and traffic statistics with a detection engine in the cloud layer, enabling coordinated, topology-aware attack detection and traceback. Our experimental results demonstrate that the proposed method achieves over 99.9% detection accuracy and 80-95% mitigation efficiency under diverse network topologies.
 
     <p class="related-publication">
-      <strong>Related publications:</strong>
-       <a href="https://ieeexplore.ieee.org/abstract/document/11587294" target="_blank" rel="noopener">
-         ICC'26
-       </a><span class="publication-separator">,</span>
-       <a href="https://www.sciencedirect.com/science/article/abs/pii/S138912862600705X" target="_blank" rel="noopener">
-         ComNet
-       </a>
-     </p>
+       <strong>Related publications:</strong>
+          <a class="publication-link" href="https://ieeexplore.ieee.org/abstract/document/11587294" target="_blank" rel="noopener">ICC'26</a>
+             <span class="publication-separator">, </span>
+         <a class="publication-link" href="https://www.sciencedirect.com/science/article/abs/pii/S138912862600705X" target="_blank" rel="noopener">ComNet</a>
+    </p>
     
    </div>
 
