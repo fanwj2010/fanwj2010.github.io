@@ -326,3 +326,102 @@ blockquote {
   text-decoration: none !important;
   border-bottom: none !important;
 }
+
+
+
+
+/* =========================================
+   UW Theme - Dark Mode Support
+   ========================================= */
+
+/* Apply UW colors only when Dark Mode is active */
+html[data-theme="dark"],
+html.dark,
+body.dark {
+  background-color: #181818 !important;
+}
+
+/* Main background */
+html[data-theme="dark"] #main,
+html.dark #main,
+html[data-theme="dark"] .initial-content,
+html.dark .initial-content,
+html[data-theme="dark"] .page,
+html.dark .page,
+html[data-theme="dark"] .archive,
+html.dark .archive {
+  background-color: #181818 !important;
+}
+
+/* Main text */
+html[data-theme="dark"] .page__content,
+html.dark .page__content {
+  color: #e0e0e0 !important;
+}
+
+/* Headings */
+html[data-theme="dark"] .page__title,
+html.dark .page__title,
+html[data-theme="dark"] .archive__subtitle,
+html.dark .archive__subtitle,
+html[data-theme="dark"] .page__content h1,
+html.dark .page__content h1,
+html[data-theme="dark"] .page__content h2,
+html.dark .page__content h2,
+html[data-theme="dark"] .page__content h3,
+html.dark .page__content h3,
+html[data-theme="dark"] .page__content h4,
+html.dark .page__content h4 {
+  color: #d6c5f0 !important;
+}
+
+/* Links */
+html[data-theme="dark"] .page__content a,
+html.dark .page__content a,
+html[data-theme="dark"] .archive a,
+html.dark .archive a {
+  color: #bda4e8 !important;
+}
+
+/* Sidebar */
+html[data-theme="dark"] .sidebar,
+html.dark .sidebar {
+  background-color: #181818 !important;
+}
+
+html[data-theme="dark"] .author__name,
+html.dark .author__name,
+html[data-theme="dark"] .author__bio,
+html.dark .author__bio {
+  color: #e0e0e0 !important;
+}
+
+html[data-theme="dark"] .author__urls a,
+html.dark .author__urls a {
+  color: #bda4e8 !important;
+}
+
+/* Tables */
+html[data-theme="dark"] .page__content table td,
+html.dark .page__content table td {
+  background-color: #242424 !important;
+  color: #e0e0e0 !important;
+}
+
+html[data-theme="dark"] .page__content table th,
+html.dark .page__content table th {
+  background-color: #32006e !important;
+  color: #ffffff !important;
+}
+
+/* Blockquotes */
+html[data-theme="dark"] blockquote,
+html.dark blockquote {
+  color: #e0e0e0 !important;
+}
+
+/* News title */
+html[data-theme="dark"] .news-title,
+html.dark .news-title {
+  color: #ff8585 !important;
+}
