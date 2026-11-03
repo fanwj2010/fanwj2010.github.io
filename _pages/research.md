@@ -96,7 +96,7 @@ author_profile: true
 
 <div class="research-project">
   <div class="research-description">
-    PentestLLM explores the application of Large Language Models (LLMs) to penetration testing, aiming to make security assessment more intelligent and automated. By leveraging LLM-based reasoning and tool integration, the framework investigates how AI can assist in understanding testing objectives, identifying potential attack paths, executing penetration-testing workflows, and interpreting security assessment results. This research aims to advance LLM-enabled penetration testing and reduce the complexity of security evaluation.
+    PentestLLM explores the application of Large Language Models to penetration testing, aiming to make security assessment more intelligent and automated. By leveraging LLM-based reasoning and tool integration, the framework investigates how AI can assist in understanding testing objectives, identifying potential attack paths, executing penetration-testing workflows, and interpreting security assessment results. This research aims to advance LLM-enabled penetration testing and reduce the complexity of security evaluation.
     <p class="related-publication">
        <strong>Related publications:</strong>
           <a class="publication-link" href="https://ieeexplore.ieee.org/abstract/document/11645571" target="_blank" rel="noopener">COMPSAC'26</a>
