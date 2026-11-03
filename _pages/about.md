@@ -66,20 +66,14 @@ Welcome to my personal webpage! I am currently a tenure-track Assistant Professo
 }
 </style>
 
-{% assign news_items = "Nov. 2026|Our paper has been accepted by XXX.;Oct. 2026|I gave a talk at XXX.;Sep. 2026|Our research project started." | split: ";" %}
-
-{% for item in news_items %}
-  {% assign parts = item | split: "|" %}
-  - {% if forloop.first %}<span class="latest-news-icon">🔥</span>{% endif %}
-    **{{ parts[0] }}:** {{ parts[1] }}
-{% endfor %}
 
 
 <div class="news-ticker">
   <div class="news-ticker-track">
 
     <ul>
-      <li><strong>2026-10-30:</strong> I have been invited to serve as a TPC member for IEEE ICC.</li>
+      <li><span class="latest-news-icon">🔥</span>
+      <strong>2026-10-30:</strong> I have been invited to serve as a TPC member for IEEE ICC.</li>
        
       <li><strong>2026-08-13:</strong> Our paper about Leveraging Cloud-Edge Architecture to enable GAT and Link State-based Defense against Attacks in NDN has been accepted for publication by Computer Networks.</li>
       
@@ -98,7 +92,8 @@ Welcome to my personal webpage! I am currently a tenure-track Assistant Professo
 
     <!-- Duplicate list for seamless scrolling -->
     <ul aria-hidden="true">
-      <li><strong>2026-10-30:</strong> I have been invited to serve as a TPC member for IEEE ICC.</li>
+      <li><span class="latest-news-icon">🔥</span>
+      <strong>2026-10-30:</strong> I have been invited to serve as a TPC member for IEEE ICC.</li>
 
       <li><strong>2026-08-13:</strong> Our paper about Leveraging Cloud-Edge Architecture to enable GAT and Link State-based Defense against Attacks in NDN has been accepted for publication by Computer Networks.</li>
 
