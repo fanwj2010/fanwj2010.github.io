@@ -108,11 +108,10 @@
    Align navbar with the two-column layout
    ========================================= */
 
-@media (min-width: 925px) {
-
+@media (min-width: 960px) {
   /* Match the width and horizontal padding of #main */
   .masthead__inner-wrap {
-    max-width: 1048px !important;
+    max-width: 1200px !important;
     width: 100% !important;
     box-sizing: border-box !important;
     padding-left: 1em !important;
