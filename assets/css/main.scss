@@ -287,16 +287,17 @@ blockquote {
   display: inline-block !important;
 }
 
-.publication-separator {
-  text-decoration: none !important;
-  color: #333 !important;
+.related-publication .publication-link {
   display: inline-block;
-}
-
-.related-publication a {
   text-decoration: none !important;
 }
 
-.related-publication a:hover {
+.related-publication .publication-link:hover {
   text-decoration: underline !important;
+}
+
+.related-publication .publication-separator {
+  display: inline-block;
+  text-decoration: none !important;
+  border-bottom: none !important;
 }
