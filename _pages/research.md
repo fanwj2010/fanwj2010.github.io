@@ -76,19 +76,14 @@ author_profile: true
 <!-- ============================================ -->
 
 ### LLM-CW: LLM-Driven Cyber Wargaming for Evolving Attack-Defense Dynamics and Strategy Adaptation
-  
 <div class="research-project">
-
   <div class="research-description">
-
     LLM-CW investigates the application of Large Language Models to cyber wargaming, focusing on evolving attack-defense interactions and adaptive strategy development. It explores how LLM-driven agents can simulate attacker and defender behaviors and adapt their strategies in response to evolving threats and defensive actions. By integrating intelligent decision-making into cyber wargaming, this work aims to advance autonomous adversarial simulation and strategic analysis for cybersecurity.
   </div>
-
   <figure class="research-figure">
     <img src="/images/LLM-CW.PNG"
          alt="LLM-driven cyber wargaming">
   </figure>
-
 </div>
 
 
@@ -102,13 +97,16 @@ author_profile: true
 <div class="research-project">
   <div class="research-description">
     PentestLLM explores the application of Large Language Models (LLMs) to penetration testing, aiming to make security assessment more intelligent and automated. By leveraging LLM-based reasoning and tool integration, the framework investigates how AI can assist in understanding testing objectives, identifying potential attack paths, executing penetration-testing workflows, and interpreting security assessment results. This research aims to advance LLM-enabled penetration testing and reduce the complexity of security evaluation.
-
     <p class="related-publication">
-      <strong>Related publications:</strong>
-       <a href="https://ieeexplore.ieee.org/abstract/document/11645571" target="_blank" rel="noopener">
-         COMPSAC'26
-       </a>
-     </p>
+       <strong>Related publications:</strong>
+          <a class="publication-link" href="https://ieeexplore.ieee.org/abstract/document/11645571" target="_blank" rel="noopener">COMPSAC'26</a>
+             <span class="publication-separator">, </span>
+         <a class="publication-link" href="https://www.sciencedirect.com/science/article/abs/pii/S2214212625003424" target="_blank" rel="noopener">JISA</a>
+             <span class="publication-separator">, </span>
+         <a class="publication-link" href="https://ieeexplore.ieee.org/abstract/document/10944976" target="_blank" rel="noopener">TrustCom'24</a>
+    </p>
+    
+    
   </div>
 
   <figure class="research-figure">
@@ -162,11 +160,12 @@ This research investigates a cloud–edge cooperative defense system that levera
 
     <p class="related-publication">
        <strong>Related publications:</strong>
+          <a class="publication-link" href="https://www.sciencedirect.com/science/article/abs/pii/S138912862600705X" target="_blank" rel="noopener">ComNet</a>
+          <span class="publication-separator">, </span>
           <a class="publication-link" href="https://ieeexplore.ieee.org/abstract/document/11587294" target="_blank" rel="noopener">ICC'26</a>
-             <span class="publication-separator">, </span>
-         <a class="publication-link" href="https://www.sciencedirect.com/science/article/abs/pii/S138912862600705X" target="_blank" rel="noopener">ComNet</a>
-    </p>
-    
+         <span class="publication-separator">, </span>
+         <a class="publication-link" href="https://ieeexplore.ieee.org/abstract/document/11143593" target="_blank" rel="noopener">IEEE TNSM</a>
+    </p>    
    </div>
 
 
