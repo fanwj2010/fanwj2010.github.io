@@ -133,9 +133,8 @@ author_profile: true
    <p class="related-publication">
       <strong>Related publications:</strong>
        <a href="https://link.springer.com/chapter/10.1007/978-981-97-8801-9_13" target="_blank" rel="noopener">
-         ICICS'24 
-       </a> 
-       <span class="publication-separator">, </span>
+         ICICS'24
+       </a><span class="publication-separator">,</span> 
        <a href="https://ieeexplore.ieee.org/abstract/document/11481625" target="_blank" rel="noopener">
          IEEE TNSE
        </a>
@@ -167,8 +166,7 @@ This research investigates a cloud–edge cooperative defense system that levera
       <strong>Related publications:</strong>
        <a href="https://ieeexplore.ieee.org/abstract/document/11587294" target="_blank" rel="noopener">
          ICC'26
-       </a> 
-       <span class="publication-separator">, </span>
+       </a><span class="publication-separator">,</span>
        <a href="https://www.sciencedirect.com/science/article/abs/pii/S138912862600705X" target="_blank" rel="noopener">
          ComNet
        </a>
@@ -192,7 +190,6 @@ This research investigates a cloud–edge cooperative defense system that levera
 ### PeerLumen: Bitcoin P2P Network Honeypot Telescope
 
 <div class="research-project">
-
   <div class="research-description">
     PeerLumen investigates a honeypot telescope for monitoring and analyzing security threats in the Bitcoin P2P network. By observing network connections and peer behaviors, the system aims to collect valuable threat intelligence and characterize malicious activities within the Bitcoin ecosystem. The research explores network-level monitoring across IPv4, IPv6, and Tor onion services, providing insights into emerging threats, suspicious connection patterns, and the security dynamics of decentralized P2P networks.
 
