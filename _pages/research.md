@@ -131,9 +131,11 @@ author_profile: true
    
     <p class="related-publication">
        <strong>Related publications:</strong>
+          <a class="publication-link" href="https://ieeexplore.ieee.org/abstract/document/11481625" target="_blank" rel="noopener">IEEE TNSE</a>
+          <span class="publication-separator">, </span>
           <a class="publication-link" href="https://link.springer.com/chapter/10.1007/978-981-97-8801-9_13" target="_blank" rel="noopener">ICICS'24</a>
-             <span class="publication-separator">, </span>
-         <a class="publication-link" href="https://ieeexplore.ieee.org/abstract/document/11481625" target="_blank" rel="noopener">IEEE TNSE</a>
+             
+         
     </p>
   </div>
   
