@@ -271,11 +271,15 @@ blockquote {
   display: none !important;
 }
 
-/* UW Logo in navigation bar */
+/* UW Logo in navigation bar, and Align Logo and Site Title to the left */
 .site-title-with-logo {
   display: flex !important;
   align-items: center !important;
   white-space: nowrap;
+  justify-content: flex-start !important;
+  margin-left: 0 !important;
+  padding-left: 0 !important;
+  text-align: left !important;
 }
 
 .site-logo {
@@ -283,10 +287,13 @@ blockquote {
   width: auto !important;
   max-width: 150px !important;
   object-fit: contain;
-  margin-right: 10px;
+  margin-left: 0 !important;
+  margin-right: 10px !important;
   display: inline-block !important;
 }
 
+
+/* about publcation comma */
 .related-publication .publication-link {
   display: inline-block;
   text-decoration: none !important;
