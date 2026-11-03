@@ -80,7 +80,7 @@ Welcome to my personal webpage! I am currently a tenure-track Assistant Professo
 
       <li><strong>2026-04-20:</strong> Our paper submitted to the 56th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2026) has been accepted.</li>
 
-      <li><strong>2026-04-12:</strong> Our paper submitted to the main conference symposium of the IEEE Computers, Software, and Applications Conference (COMPSAC 2026) has been accepted as a full paper (up to 10 pages) for inclusion in the proceedings. Only 28.5% of submitted papers were accepted as full papers.</li>
+      <li><strong>2026-04-12:</strong> Our paper submitted to the 50th IEEE Computers, Software, and Applications Conference (COMPSAC 2026) has been accepted as a full paper. Only 28.5% of submitted papers were accepted as full papers.</li>
 
       <li><strong>2026-04-06:</strong> Our paper has been accepted with no further changes as a Regular Paper in an upcoming issue of the IEEE Transactions on Network Science and Engineering.</li>
 
@@ -99,7 +99,7 @@ Welcome to my personal webpage! I am currently a tenure-track Assistant Professo
 
       <li><strong>2026-04-20:</strong> Our paper submitted to the 56th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2026) has been accepted.</li>
 
-      <li><strong>2026-04-12:</strong> Our paper submitted to the main conference symposium of the IEEE Computers, Software, and Applications Conference (COMPSAC 2026) has been accepted as a full paper (up to 10 pages) for inclusion in the proceedings. Only 28.5% of submitted papers were accepted as full papers.</li>
+      <li><strong>2026-04-12:</strong> Our paper submitted to the 50th IEEE Computers, Software, and Applications Conference (COMPSAC 2026) has been accepted as a full paper. Only 28.5% of submitted papers were accepted as full papers.</li>
 
       <li><strong>2026-04-06:</strong> Our paper has been accepted with no further changes as a Regular Paper in an upcoming issue of the IEEE Transactions on Network Science and Engineering.</li>
 
