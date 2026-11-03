@@ -66,6 +66,15 @@ Welcome to my personal webpage! I am currently a tenure-track Assistant Professo
 }
 </style>
 
+{% assign news_items = "Nov. 2026|Our paper has been accepted by XXX.;Oct. 2026|I gave a talk at XXX.;Sep. 2026|Our research project started." | split: ";" %}
+
+{% for item in news_items %}
+  {% assign parts = item | split: "|" %}
+  - {% if forloop.first %}<span class="latest-news-icon">🔥</span>{% endif %}
+    **{{ parts[0] }}:** {{ parts[1] }}
+{% endfor %}
+
+
 <div class="news-ticker">
   <div class="news-ticker-track">
 
