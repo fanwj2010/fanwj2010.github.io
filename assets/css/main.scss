@@ -104,30 +104,42 @@
 }
 
 
-/* Align navbar elements with the two-column page layout */
+/* =========================================
+   Align navbar with the two-column layout
+   ========================================= */
+
 @media (min-width: 925px) {
 
-  /* Use the same overall width as the page layout */
+  /* Match the width and horizontal padding of #main */
   .masthead__inner-wrap {
-    max-width: 1280px !important;
+    max-width: 1048px !important;
     width: 100% !important;
+    box-sizing: border-box !important;
+    padding-left: 1em !important;
+    padding-right: 1em !important;
     margin-left: auto !important;
     margin-right: auto !important;
-    padding-left: 0 !important;
-    padding-right: 0 !important;
   }
 
-  /* Preserve the native greedy-nav layout */
+  /* Keep the native greedy-nav flex layout */
+  #site-nav .visible-links {
+    display: flex !important;
+    flex: 1 1 auto !important;
+    justify-content: flex-end !important;
+  }
+
+  /* Keep logo/title on the left, with other links on the right */
   #site-nav .visible-links > li.masthead__menu-item--lg {
-    margin-left: 0 !important;
     margin-right: auto !important;
+    margin-left: 0 !important;
   }
 
-  /* Logo and title */
+  /* Align logo and title within their list item */
   #site-nav .site-title-with-logo {
     display: flex !important;
     align-items: center !important;
     padding-left: 0 !important;
+    white-space: nowrap;
   }
 }
 
