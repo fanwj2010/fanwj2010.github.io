@@ -103,9 +103,10 @@
   display: none !important;
 }
 
-
-/* Align navigation bar with the main page content */
+/* Align logo/title with sidebar and navigation with main content */
 @media (min-width: 925px) {
+
+  /* Navigation container spans the full page width */
   .masthead__inner-wrap {
     max-width: 1480px !important;
     width: 100% !important;
@@ -115,30 +116,30 @@
     padding-right: 0 !important;
   }
 
-  /* Push navigation links to the right */
-  .greedy-nav {
+  /* Make the navigation list occupy the full width */
+  #site-nav .visible-links {
     display: flex !important;
-    justify-content: flex-end !important;
+    align-items: center !important;
     width: 100% !important;
-  }
-
-  .greedy-nav .visible-links {
-    margin-left: auto !important;
     justify-content: flex-end !important;
   }
 
-
-/* Align the logo and site title with the left edge of the sidebar */
-
+  /* Keep Logo and Title on the far left */
   #site-nav .visible-links > .masthead__menu-item--lg {
     margin-left: 0 !important;
-    padding-left: 0 !important;
     margin-right: auto !important;
+    padding-left: 0 !important;
+    flex-shrink: 0 !important;
   }
 
+  /* Align Logo and Title themselves to the left */
   #site-nav .visible-links > .masthead__menu-item--lg > a {
-    padding-left: 0 !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: flex-start !important;
     margin-left: 0 !important;
+    padding-left: 0 !important;
+    text-align: left !important;
   }
 }
 
