@@ -169,6 +169,22 @@ If these qualities resonate with you, please do not hesitate to contact me to di
 </div>
 
 
+
+## Research Opportunities
+
+Prospective students interested in joining my research group are welcome to contact me.
+
+Please include the following in your email:
+
+- A brief introduction of yourself and your academic background.
+- Your research interests and potential research directions.
+- Your CV or résumé.
+- Your academic transcripts, if available.
+
+<!--
+Email: [wjfan@uw.edu](mailto:wjfan@uw.edu)
+-->
+
 <div class="student-qualities">
 
   <div class="quality-card quality-purpose">
@@ -187,22 +203,6 @@ If these qualities resonate with you, please do not hesitate to contact me to di
   </div>
 
 </div>
-
-
-## Research Opportunities
-
-Prospective students interested in joining my research group are welcome to contact me.
-
-Please include the following in your email:
-
-- A brief introduction of yourself and your academic background.
-- Your research interests and potential research directions.
-- Your CV or résumé.
-- Your academic transcripts, if available.
-
-<!--
-Email: [wjfan@uw.edu](mailto:wjfan@uw.edu)
--->
 
 
 
