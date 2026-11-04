@@ -11,7 +11,7 @@ Welcome to my webpage! I am currently a tenure-track Assistant Professor at the 
 
 I earned my Ph.D. in Telematics Systems Engineering from the Technical University of Madrid (UPM), Spain, in 2017. My doctoral research was conducted under the supervision of [Prof. David Fernández](https://www.dit.upm.es/~giros/en/member/david.fernandez/) in the [Department of Telematics Engineering (DIT)](https://www.dit.upm.es/). The department has played an important role in the early development of computer networking in Spain, providing a stimulating research environment for my doctoral studies.
 
-Before joining the University of Washington Tacoma, I was a postdoctoral associate at the University of Colorado Colorado Springs, USA (2019–2021), where I participated in the NSF CyberCorps® Scholarship for Service program [(SFS)](https://sfs.opm.gov/) at UCCS, called Colorado-Washington Security Scholars Program [(CWSSP)](https://cwssp.uccs.edu/).
+Before joining the University of Washington Tacoma, I was a postdoctoral associate at the University of Colorado Colorado Springs, USA (2019–2021), where I participated in the NSF CyberCorps® Scholarship for Service program ([SFS](https://sfs.opm.gov/)) at UCCS, called Colorado-Washington Security Scholars Program ([CWSSP](https://cwssp.uccs.edu/)).
 Also, I worked as a postdoctoral researcher at the University of Kent, Canterbury, UK (2017–2019). During this post-doctoral study, I took part in the EU Horizon 2020 [C3ISP project](https://cordis.europa.eu/project/id/700294). The project developed four pilot use cases to investigate collaborative intelligence through the confidential sharing and analysis of cyber-threat information.
 
 <!--
