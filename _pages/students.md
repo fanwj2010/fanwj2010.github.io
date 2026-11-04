@@ -6,13 +6,6 @@ author_profile: true
 ---
 
 
----
-layout: archive
-title: "Students"
-permalink: /students/
-author_profile: true
----
-
 <style>
 
 /* =========================================
@@ -113,7 +106,7 @@ author_profile: true
 }
 
 .quality-perseverance {
-  background-image: url('/images/student-perseverance.jpg');
+  background-image: url('/images/award-setshowcase2026.jpg');
 }
 
 /* Mobile layout */
@@ -158,16 +151,16 @@ Be honest, responsible, and trustworthy. In research, integrity is fundamental. 
 
 <p>
 <strong>3. Perseverance and Resilience.</strong>
-Research is rarely a smooth journey. Be patient, learn from setbacks, and keep moving forward. As the saying goes:
+Research is rarely a smooth journey. Be patient, learn from setbacks, and keep moving forward. As a saying attributed to Leo Tolstoy goes:
 </p>
 
 <p style="text-align:center; font-size:1.15em; font-weight:bold; color:#ffc700 !important;">
-“天才是持续不断的忍耐。”
+“Genius is continuous patience.”
 </p>
 
-<p style="text-align:center; font-style:italic;">
+<!--p style="text-align:center; font-style:italic;">
 As a saying attributed to Leo Tolstoy goes, "Genius is continuous patience."
-</p>
+</p-->
 
 <p>
 If these qualities resonate with you, please do not hesitate to contact me to discuss potential PhD opportunities.
@@ -207,8 +200,9 @@ Please include the following in your email:
 - Your CV or résumé.
 - Your academic transcripts, if available.
 
+<!--
 Email: [wjfan@uw.edu](mailto:wjfan@uw.edu)
-
+-->
 
 
 
@@ -216,25 +210,25 @@ Email: [wjfan@uw.edu](mailto:wjfan@uw.edu)
 
 ## Ph.D. Students
 
-### Supervisor
+### Serve as Supervisor
 
 - **Fei Du** (2025–present)
 - **Jia Liu** (2023–present)
 
-### Dissertation Committee Member
+### Serve as Dissertation Committee Member
 
 - **Nazmus Sakib** (2026)
 - **Antonio López** (2025)
 
 ## Master's Students
 
-### MSIT Program
+### Serve for the MSIT Program
 
 - **Geraldine Nnene** – Capstone Supervisor (2027)
 - **Jacob Portillo** – Capstone Supervisor (2026)
 - **Nicholas Ackerson** – Capstone Supervisor (2026)
 
-### MCL Program
+### Serve for the MCL Program
 
 - **Mike McClure** – Capstone and NSF SFS Supervisor (2027)
 - **Sherry Young** – Capstone Supervisor (2027)
