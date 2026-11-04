@@ -210,30 +210,30 @@ Email: [wjfan@uw.edu](mailto:wjfan@uw.edu)
 
 ## Ph.D. Students
 
-### Serve as Supervisor
+### Serve as a Supervisor for:
 
 - **Fei Du** (2025–present)
 - **Jia Liu** (2023–present)
 
-### Serve as Dissertation Committee Member
+### Serve as a Dissertation Committee Member for:
 
 - **Nazmus Sakib** (2026)
 - **Antonio López** (2025)
 
 ## Master's Students
 
-### Serve for the MSIT Program
+### Serve as a Capstone Supervisor in the MSIT Program for:
 
-- **Geraldine Nnene** – Capstone Supervisor (2027)
-- **Jacob Portillo** – Capstone Supervisor (2026)
-- **Nicholas Ackerson** – Capstone Supervisor (2026)
+- **Geraldine Nnene** (2027)
+- **Jacob Portillo** (2026)
+- **Nicholas Ackerson** (2026)
 
-### Serve for the MCL Program
+### Serve as a Capstone Supervisor in the MCL Program for:
 
-- **Mike McClure** – Capstone and NSF SFS Supervisor (2027)
-- **Sherry Young** – Capstone Supervisor (2027)
-- **Nathan Paul** – Capstone Supervisor (2027)
-- **Syed Huzaifa Bin Afzal** – Capstone Supervisor (2026)
-- **Justin Bowman** – Capstone Supervisor (2026)
-- **Yu-Tien Renee Chian** – Capstone Supervisor (2026)
-- **Ayush Singh** – Capstone Supervisor (2026)
+- **Mike McClure** (2027, NSF SFS Supervisor)
+- **Sherry Young** (2027)
+- **Nathan Paul** (2027)
+- **Syed Huzaifa Bin Afzal** (2026)
+- **Justin Bowman** (2026)
+- **Yu-Tien Renee Chian** (2026)
+- **Ayush Singh** (2026)
