@@ -6,7 +6,17 @@ author_profile: true
 ---
 
 # About Me
+
+I am currently a tenure-track Assistant Professor at the University of Washington, Tacoma, USA. My research interests include cybersecurity, artificial intelligence, network softwarization, blockchain, and cloud computing.
+
+I received my Ph.D. in Telematics Systems Engineering from the Technical University of Madrid (UPM), Spain, in 2017. My doctoral research was conducted under the supervision of [Prof. David Fernández](https://www.dit.upm.es/~giros/en/member/david.fernandez/) in the [Department of Telematics Engineering (DIT)](https://www.dit.upm.es/). The department has played an important role in the early development of computer networking in Spain, providing a stimulating research environment for my doctoral studies.
+
+Before joining the University of Washington Tacoma, I was a postdoctoral associate at the University of Colorado Colorado Springs, USA (2019–2021), and a postdoctoral researcher at the University of Kent, Canterbury, UK (2017–2019). During my post-doctoral studies, I participated in the EU Horizon 2020 [C3ISP project](https://cordis.europa.eu/project/id/700294). The project developed four pilot use cases to investigate collaborative intelligence through the sharing and analysis of cyber-threat information.
+
+
+<!--
 Welcome to my personal webpage! I am currently a tenure-track Assistant Professor at the University of Washington, Tacoma, US. My research interests include cybersecurity, artificial intelligence, network softwarization, blockchain, and cloud computing. Prior to joining UW Tacoma, I was a postdoctoral associate at the University of Colorado Colorado Springs (US) from 2019 to 2021 and a postdoctoral researcher at the University of Kent, Canterbury (UK), from 2017 to 2019. I earned my PH.D. in Telematics Systems Engineering from the Technical University of Madrid (Spain) in 2017.
+-->
 
 ## Honors, Certificates, & Awards
 - **Honorary Member**, iCSS, University of Kent, Canterbury, U.K., 2023–present.
