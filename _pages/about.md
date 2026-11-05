@@ -91,11 +91,11 @@ Welcome to my personal webpage! I am currently a tenure-track Assistant Professo
 
       <li><strong>2026-04-28:</strong> I have been invited to serve as a TPC member for ISD.</li>
 
-      <li><strong>2026-04-20:</strong> Congrats to Fei Du, Junghu Kim, and Sang-Yoon Chang! Our paper submitted to the 56th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2026) has been accepted.</li>
+      <li><strong>2026-04-20:</strong> Good news, our PeerLumen paper submitted to the 56th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2026) has been accepted.</li>
 
       <li><strong>2026-04-12:</strong> Congrats to Fei Du! Our paper submitted to the 50th IEEE Computers, Software, and Applications Conference (COMPSAC 2026) has been accepted as a full paper. Only 28.5% of submitted papers were accepted as full papers.</li>
 
-      <li><strong>2026-04-06:</strong> Congrats to Fei Du, Zhihui Wang, Qiyu Cao, Lekun Liu, Kejing Chang, and Sang-Yoon Chang! Our paper has been accepted with no further changes as a Regular Paper in an upcoming issue of the IEEE Transactions on Network Science and Engineering.</li>
+      <li><strong>2026-04-06:</strong> Good news, our HoneyLLMd paper has been accepted with no further changes as a Regular Paper in an upcoming issue of the IEEE Transactions on Network Science and Engineering.</li>
 
       <li><strong>2026-02-22:</strong> Congrats to Syed Huzaifa Bin Afzal, Justin Bowman, Yu-Tien Renee Chian, and Ayush Singh! Our paper prepared by a group of MCL students has been accepted for presentation and publication at IEEE SVCC 2026.</li>
     </ul>
@@ -111,11 +111,11 @@ Welcome to my personal webpage! I am currently a tenure-track Assistant Professo
 
       <li><strong>2026-04-28:</strong> I have been invited to serve as a TPC member for ISD.</li>
 
-      <li><strong>2026-04-20:</strong> Congrats to Fei Du, Junghu Kim, and Sang-Yoon Chang! Our paper submitted to the 56th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2026) has been accepted.</li>
+      <li><strong>2026-04-20:</strong> Good news, our PeerLumen paper submitted to the 56th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2026) has been accepted.</li>
    
       <li><strong>2026-04-12:</strong> Congrats to Fei Du! Our paper submitted to the 50th IEEE Computers, Software, and Applications Conference (COMPSAC 2026) has been accepted as a full paper. Only 28.5% of submitted papers were accepted as full papers.</li>
 
-      <li><strong>2026-04-06:</strong> Congrats to Fei Du, Zhihui Wang, Qiyu Cao, Lekun Liu, Kejing Chang, and Sang-Yoon Chang! Our paper has been accepted with no further changes as a Regular Paper in an upcoming issue of the IEEE Transactions on Network Science and Engineering.</li>
+      <li><strong>2026-04-06:</strong> Good news, our HoneyLLMd paper has been accepted with no further changes as a Regular Paper in an upcoming issue of the IEEE Transactions on Network Science and Engineering.</li>
 
       <li><strong>2026-02-22:</strong> Congrats to Syed Huzaifa Bin Afzal, Justin Bowman, Yu-Tien Renee Chian, and Ayush Singh! Our paper prepared by a group of MCL students has been accepted for presentation and publication at IEEE SVCC 2026.</li>
     </ul>
