@@ -282,7 +282,7 @@ Footer section
 
 .page__footer footer {
   margin: 0 !important;
-  padding: 2px 0 !important;
+  padding: 3px 0 !important;
   min-height: 0 !important;
 }
 
@@ -294,8 +294,8 @@ Footer section
 .visitor-counter {
   text-align: center;
   margin: 0 auto !important;
-  padding: 2px 0 !important;
-  font-size: 10px;
+  padding: 3px 0 !important;
+  font-size: 12px;
   line-height: 1;
 }
 
@@ -338,14 +338,14 @@ News Section
   max-width: 150px !important;
   object-fit: contain;
   margin-left: 0 !important;
-  margin-right: 0px !important;
+  margin-right: 0 !important;
   display: inline-block !important;
 }
 
 .site-logos {
   display: flex;
   align-items: center;
-  gap: 0px;
+  gap: 0;
   flex-shrink: 0;
 }
 
