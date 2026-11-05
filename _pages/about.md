@@ -98,6 +98,9 @@ Welcome to my personal webpage! I am currently a tenure-track Assistant Professo
       <li><strong>2026-04-06:</strong> Good news, our HoneyLLMd paper has been accepted with no further changes as a Regular Paper in an upcoming issue of the IEEE Transactions on Network Science and Engineering.</li>
 
       <li><strong>2026-02-22:</strong> Congrats to Syed Huzaifa Bin Afzal, Justin Bowman, Yu-Tien Renee Chian, and Ayush Singh! Our paper prepared by a group of MCL students has been accepted for presentation and publication at IEEE SVCC 2026.</li>
+      
+      <li><strong>2026-01-18:</strong> Great News! Our paper regarding Link State-enabled IFA Threat Detection and Tracing in Named Data Networking for IEEE ICC 2026 - CISS has been accepted for publication. See you in Glasgow, UK.</li>
+
     </ul>
 
     <!-- Duplicate list for seamless scrolling -->
@@ -118,6 +121,8 @@ Welcome to my personal webpage! I am currently a tenure-track Assistant Professo
       <li><strong>2026-04-06:</strong> Good news, our HoneyLLMd paper has been accepted with no further changes as a Regular Paper in an upcoming issue of the IEEE Transactions on Network Science and Engineering.</li>
 
       <li><strong>2026-02-22:</strong> Congrats to Syed Huzaifa Bin Afzal, Justin Bowman, Yu-Tien Renee Chian, and Ayush Singh! Our paper prepared by a group of MCL students has been accepted for presentation and publication at IEEE SVCC 2026.</li>
+
+      <li><strong>2026-01-18:</strong> Great News! Our paper regarding Link State-enabled IFA Threat Detection and Tracing in Named Data Networking for IEEE ICC 2026 - CISS has been accepted for publication. See you in Glasgow, UK.</li>
     </ul>
 
   </div>
