@@ -111,7 +111,7 @@
 @media (min-width: 960px) {
   /* Match the width and horizontal padding of #main */
   .masthead__inner-wrap {
-    max-width: 1048px !important;
+    max-width: 1060px !important;
     width: 100% !important;
     box-sizing: border-box !important;
     padding-left: 1em !important;
@@ -282,7 +282,7 @@ Footer section
 
 .page__footer footer {
   margin: 0 !important;
-  padding: 3px 0 !important;
+  padding: 2px 0 !important;
   min-height: 0 !important;
 }
 
@@ -294,8 +294,8 @@ Footer section
 .visitor-counter {
   text-align: center;
   margin: 0 auto !important;
-  padding: 3px 0 !important;
-  font-size: 12px;
+  padding: 2px 0 !important;
+  font-size: 10px;
   line-height: 1;
 }
 
@@ -335,7 +335,7 @@ News Section
 .site-logo {
   height: 38px !important;
   width: auto !important;
-  max-width: 150px !important;
+  max-width: 140px !important;
   object-fit: contain;
   margin-left: 0 !important;
   margin-right: 0 !important;
