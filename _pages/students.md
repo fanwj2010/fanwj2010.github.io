@@ -129,7 +129,7 @@ author_profile: true
 
 <div class="student-intro">
 
-<h2>Prospective PhD Students</h2>
+<h2>Prospective Students</h2>
 
 <p>
 My research group is continuously looking for motivated students who are passionate about research and eager to explore challenging problems in cybersecurity, artificial intelligence, blockchain, networking, and related areas.
