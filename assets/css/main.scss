@@ -342,6 +342,12 @@ News Section
   display: inline-block !important;
 }
 
+.site-logos {
+  display: flex;
+  align-items: center;
+  gap: 0px;
+  flex-shrink: 0;
+}
 
 /* about publcation comma */
 .related-publication .publication-link {
