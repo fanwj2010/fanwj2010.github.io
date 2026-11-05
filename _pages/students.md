@@ -9,7 +9,7 @@ author_profile: true
 <style>
 
 /* =========================================
-   Prospective PhD Students
+   Prospective Students
    ========================================= */
 
 .student-intro {
@@ -132,7 +132,7 @@ author_profile: true
 <h2>Prospective PhD Students</h2>
 
 <p>
-My research group is continuously looking for motivated PhD students who are passionate about research and eager to explore challenging problems in cybersecurity, artificial intelligence, and related areas.
+My research group is continuously looking for motivated students who are passionate about research and eager to explore challenging problems in cybersecurity, artificial intelligence, blockchain, networking, and related areas.
 </p>
 
 <p>
