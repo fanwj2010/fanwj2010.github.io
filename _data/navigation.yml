@@ -23,8 +23,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Students"
-    url: /students/
+ # - title: "Students"
+ #   url: /students/
 
  # - title: "Talks"
  #   url: /talks/    
